@@ -70,7 +70,7 @@ In this project we create three plots that each gives different useful insights 
 
 ![image](https://user-images.githubusercontent.com/94983278/152399820-d4f811d5-100b-4ddf-b4bc-16d1886cfb60.png)
 
-*San Francisco Sqft Sale Price vs. Gross Rent - same information as the graph below but filtered by neighborhood. You can change the neighborhood using the dropdown menu on the right. This could help us even further analyze which neighborhoods offer the best investment/return for residential rental properties.
+* San Francisco Sqft Sale Price vs. Gross Rent - same information as the graph below but filtered by neighborhood. You can change the neighborhood using the dropdown menu on the right. This could help us even further analyze which neighborhoods offer the best investment/return for residential rental properties.
 
 ![image](https://user-images.githubusercontent.com/94983278/152400576-2d585aef-83c0-45a0-9246-d3aa7e86c083.png)
 
